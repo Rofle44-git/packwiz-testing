@@ -246,6 +246,11 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "e727cc5823b7391db5c30bbaa3769fed77533db693011d0dc8698b0e4303b71d"
 metafile = true
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
