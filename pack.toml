@@ -1,0 +1,13 @@
+name = "Gay Minecraft"
+author = "reallyriley"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "33237a8960b8124539585091173aa15e0f33f2ec7080c852e22abec27c9cde9d"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"
